@@ -12,4 +12,4 @@ Method 2:
    Pick the correct OS your are using for the install
 3) Open powershell (if on Windows) or your terminal (if on Mac) and navigate to the directory in which the Main.java file resides. 
 4) Type the command 'javac Main.java' to compile
-5) Then type the comman 'java Main' to run the program
+5) Then type the command 'java Main' to run the program
